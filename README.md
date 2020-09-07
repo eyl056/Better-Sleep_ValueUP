@@ -1,2 +1,7 @@
 # Better-Sleep_ValueUP
-스마트 조명
+## Smart lighting with sleep management
+
+### Minimum SDK
+ API 16 : Android 4.1 (Jelly Bean)
+ 
+### Runs only on Android devices. 
